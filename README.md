@@ -1,0 +1,2 @@
+# whatScaler
+MinMaxScaler for AI
